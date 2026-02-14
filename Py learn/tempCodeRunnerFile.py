@@ -1,0 +1,5 @@
+print(marks.pop("rohan"))
+# print(marks)
+# print(marks.popitem())
+# print(marks)
+# print(marks.copy())
