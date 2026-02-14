@@ -62,8 +62,8 @@ python loops.py
 
 ## 📫 Connect With Me
 
-LinkedIn: (add your link)  
-GitHub: (your profile link)
+LinkedIn: ( https://www.linkedin.com/in/neha-chouhan-n3399/ )
+GitHub: ( https://github.com/Neha1016)
 
 ---
 
